@@ -6,6 +6,7 @@
 # 忽略编译输出的文件夹
 bin/
 obj/
+Properties/
 
 # 忽略用户设置文件
 *.user
