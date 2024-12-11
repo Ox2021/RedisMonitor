@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WpfApp3</id>
+    <version>1.0.0</version>
+    <authors>WpfApp3</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="StackExchange.Redis" version="2.8.22" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\Code\RedisMonitor\WpfApp3\bin\Debug\net8.0-windows\WpfApp3.runtimeconfig.json" target="lib\net8.0-windows7.0\WpfApp3.runtimeconfig.json" />
+    <file src="E:\Code\RedisMonitor\WpfApp3\bin\Debug\net8.0-windows\WpfApp3.dll" target="lib\net8.0-windows7.0\WpfApp3.dll" />
+  </files>
+</package>

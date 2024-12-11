@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\RedisMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|e:\\code\\redismonitor\\wpfapp3\\redishelp\\redishelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\redishelp\\redishelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|e:\\code\\redismonitor\\wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|e:\\code\\redismonitor\\wpfapp3\\services\\redisdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\services\\redisdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|e:\\code\\redismonitor\\wpfapp3\\utils\\dataitemcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\utils\\dataitemcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|e:\\code\\redismonitor\\wpfapp3\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|e:\\code\\redismonitor\\wpfapp3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|e:\\code\\redismonitor\\wpfapp3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|e:\\code\\redismonitor\\wpfapp3\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|e:\\code\\redismonitor\\wpfapp3\\dto\\dataitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\dto\\dataitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|e:\\code\\redismonitor\\wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|e:\\code\\redismonitor\\wpfapp3\\properties\\publishprofiles\\https___registry.cn-shanghai.aliyuncs.com_xazdyl.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C9B0EF58-3FF0-46CD-9D9E-81F87E77C498}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\properties\\publishprofiles\\https___registry.cn-shanghai.aliyuncs.com_xazdyl.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedisHelper.cs",
+              "DocumentMoniker": "E:\\Code\\RedisMonitor\\WpfApp3\\RedisHelp\\RedisHelper.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\RedisHelp\\RedisHelper.cs",
+              "ToolTip": "E:\\Code\\RedisMonitor\\WpfApp3\\RedisHelp\\RedisHelper.cs",
+              "RelativeToolTip": "WpfApp3\\RedisHelp\\RedisHelper.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:44:03.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedisData.cs",
+              "DocumentMoniker": "E:\\Code\\RedisMonitor\\WpfApp3\\Services\\RedisData.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Services\\RedisData.cs",
+              "ToolTip": "E:\\Code\\RedisMonitor\\WpfApp3\\Services\\RedisData.cs",
+              "RelativeToolTip": "WpfApp3\\Services\\RedisData.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAA4wHAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:45:06.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\RedisMonitor\\WpfApp3\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\App.xaml.cs",
+              "ToolTip": "E:\\Code\\RedisMonitor\\WpfApp3\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:45:00.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Code\\RedisMonitor\\WpfApp3\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp3\\App.xaml",
+              "ToolTip": "E:\\Code\\RedisMonitor\\WpfApp3\\App.xaml",
+              "RelativeToolTip": "WpfApp3\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T06:44:57.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\RedisMonitor\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Code\\RedisMonitor\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:35:51.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataItemComparer.cs",
+              "DocumentMoniker": "E:\\Code\\RedisMonitor\\WpfApp3\\Utils\\DataItemComparer.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Utils\\DataItemComparer.cs",
+              "ToolTip": "E:\\Code\\RedisMonitor\\WpfApp3\\Utils\\DataItemComparer.cs",
+              "RelativeToolTip": "WpfApp3\\Utils\\DataItemComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:17:41.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataItem.cs",
+              "DocumentMoniker": "E:\\Code\\RedisMonitor\\WpfApp3\\DTO\\DataItem.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\DTO\\DataItem.cs",
+              "ToolTip": "E:\\Code\\RedisMonitor\\WpfApp3\\DTO\\DataItem.cs",
+              "RelativeToolTip": "WpfApp3\\DTO\\DataItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:17:34.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Code\\RedisMonitor\\WpfApp3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml",
+              "ToolTip": "E:\\Code\\RedisMonitor\\WpfApp3\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T06:04:44.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Code\\RedisMonitor\\WpfApp3\\appsettings.json",
+              "RelativeDocumentMoniker": "WpfApp3\\appsettings.json",
+              "ToolTip": "E:\\Code\\RedisMonitor\\WpfApp3\\appsettings.json",
+              "RelativeToolTip": "WpfApp3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T06:04:42.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Code\\RedisMonitor\\WpfApp3\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\AssemblyInfo.cs",
+              "ToolTip": "E:\\Code\\RedisMonitor\\WpfApp3\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp3\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:04:38.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "https___registry.cn-shanghai.aliyuncs.com_xazdyl.pubxml",
+              "DocumentMoniker": "E:\\Code\\RedisMonitor\\WpfApp3\\Properties\\PublishProfiles\\https___registry.cn-shanghai.aliyuncs.com_xazdyl.pubxml",
+              "RelativeDocumentMoniker": "WpfApp3\\Properties\\PublishProfiles\\https___registry.cn-shanghai.aliyuncs.com_xazdyl.pubxml",
+              "ToolTip": "E:\\Code\\RedisMonitor\\WpfApp3\\Properties\\PublishProfiles\\https___registry.cn-shanghai.aliyuncs.com_xazdyl.pubxml",
+              "RelativeToolTip": "WpfApp3\\Properties\\PublishProfiles\\https___registry.cn-shanghai.aliyuncs.com_xazdyl.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-02T06:02:35.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
