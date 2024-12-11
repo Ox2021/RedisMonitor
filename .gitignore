@@ -1,0 +1,40 @@
+# 忽略 Visual Studio 配置文件
+.vs/
+.vscode/
+.idea/
+
+# 忽略编译输出的文件夹
+bin/
+obj/
+
+# 忽略用户设置文件
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.vsconfig
+
+# 忽略 NuGet 包
+# 如果使用了 NuGet 包管理，建议忽略包缓存和包文件夹
+.nuget/
+packages/
+
+# 忽略发布输出文件夹
+publish/
+
+# 忽略日志文件
+*.log
+
+# 忽略操作系统生成的文件
+.DS_Store         # macOS 文件
+Thumbs.db         # Windows 文件
+ehthumbs.db
+
+# 忽略 Rider 和其他 IDE 的配置文件
+.idea/
+
+# 忽略 NUnit 和其他测试框架的配置文件
+TestResult/
+
+# 忽略生成的日志文件
+*.log
