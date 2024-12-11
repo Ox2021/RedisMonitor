@@ -1,9 +1,0 @@
-E:\Code\RedisMonitor\WpfApp3\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\WpfApp3
-E:\Code\RedisMonitor\WpfApp3\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\WpfApp3.dll
-E:\Code\RedisMonitor\WpfApp3\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\WpfApp3.deps.json
-E:\Code\RedisMonitor\WpfApp3\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\WpfApp3.runtimeconfig.json
-E:\Code\RedisMonitor\WpfApp3\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\WpfApp3.pdb
-E:\Code\RedisMonitor\WpfApp3\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
-E:\Code\RedisMonitor\WpfApp3\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\Pipelines.Sockets.Unofficial.dll
-E:\Code\RedisMonitor\WpfApp3\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\StackExchange.Redis.dll
-E:\Code\RedisMonitor\WpfApp3\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\System.IO.Pipelines.dll
