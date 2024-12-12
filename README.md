@@ -1,4 +1,7 @@
+# 项目描述
 Redis消息积压检测的WPF程序
+# 项目运行效果
+![image](https://github.com/user-attachments/assets/d96ddfcf-e256-44dc-bf76-0fe760c38f52)
 # 代码提交规范
 * feat: 新增功能（feature）
 * fix: 修复 Bug
