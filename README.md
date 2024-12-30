@@ -40,11 +40,6 @@ Redis Monitor 是一个用于监控Redis实例的WPF应用程序。它提供了�
     }
     ```
 
-5. 启动应用：
-
-    ```bash
-    dotnet run
-    ```
 ***
 
 # 代码提交规范
