@@ -11,4 +11,9 @@
     <ProjectReference Include="..\LogHelper\LogHelper.csproj" />
     <ProjectReference Include="..\StackExchange.RedisHelper\StackExchange.RedisHelper.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 </Project>
