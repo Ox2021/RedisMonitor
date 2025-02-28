@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogHelper", "LogHelper\LogHelper.csproj", "{70209C54-0278-A137-3BCE-712CCBC9A10C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExchange.RedisHelper", "StackExchange.RedisHelper\StackExchange.RedisHelper.csproj", "{1D8F28C0-4475-1EE8-8E7F-EC7EE4BBB723}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{70209C54-0278-A137-3BCE-712CCBC9A10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70209C54-0278-A137-3BCE-712CCBC9A10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70209C54-0278-A137-3BCE-712CCBC9A10C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8F28C0-4475-1EE8-8E7F-EC7EE4BBB723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8F28C0-4475-1EE8-8E7F-EC7EE4BBB723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8F28C0-4475-1EE8-8E7F-EC7EE4BBB723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8F28C0-4475-1EE8-8E7F-EC7EE4BBB723}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
